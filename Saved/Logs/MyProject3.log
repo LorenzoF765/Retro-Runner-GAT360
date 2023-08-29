@@ -1454,3 +1454,1338 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.29-21.08.57:208][192]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20
 [2023.08.29-21.08.57:208][192]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
 [2023.08.29-21.08.57:208][192]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.08.29-21.11.11:614][516]LogSlate: Window 'Level' being destroyed
+[2023.08.29-21.11.11:624][516]LogSlate: Window 'Level' being destroyed
+[2023.08.29-21.11.11:637][516]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.11.11:637][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.11.26:030][ 39]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.08.29-21.11.26:040][ 39]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.08.29-21.11.26:052][ 40]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.08.29-21.11.29:942][506]LogContentBrowser: Attempting asset rename: NewMaterial -> PostProcess
+[2023.08.29-21.11.29:943][506]LogContentBrowser: End creating deferred item NewMaterial
+[2023.08.29-21.11.34:237][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.29-21.11.35:502][903]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.29-21.11.35:531][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.29-21.11.35:539][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.08.29-21.11.35:547][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.29-21.11.37:266][ 61]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.29-21.11.37:280][ 61]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.29-21.11.37:290][ 62]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.29-21.11.41:308][538]LogContentBrowser: Attempting asset rename: NewFolder -> PostProcess
+[2023.08.29-21.11.41:308][538]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.29-21.11.45:514][952]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.08.29-21.11.45:525][952]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.08.29-21.11.45:544][954]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.08.29-21.11.49:477][424]LogContentBrowser: Attempting asset rename: NewMaterial -> PP_Level
+[2023.08.29-21.11.49:478][424]LogContentBrowser: End creating deferred item NewMaterial
+[2023.08.29-21.12.08:699][217]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.12.08:702][217]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.12.08:702][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.12.08:911][217]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.12.08:911][217]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.08:911][217]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.12.08:919][217]LogViewport: Scene viewport resized to 510x264, mode Windowed.
+[2023.08.29-21.12.09:764][267]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.12.09:764][267]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Total job queries 98, among them cache hits 42 (42.86%)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 28 distinct outputs (52.83%)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: RAM used: 1.14 MiB of 819.20 MiB budget. Usage: 0.14%
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Shaders Compiled: 53
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Jobs assigned 56, completed 53 (94.64%)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Average time worker was idle: 39.26 s
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 0.96 s
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 2.15 s
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 2.18
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.98 s
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Jobs were issued in 56 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Average processing rate: 4.83 jobs/sec
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Total thread time: 31.74 s
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Total thread preprocess time: 1.338 s
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Percentage time preprocessing: 4.22%
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Effective parallelization: 2.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.72 sec, max 0.77 sec, min 0.68 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.95% of total time (compiled    7 times, average 0.72 sec, max 0.77 sec, min 0.68 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.32% of total time (compiled    7 times, average 0.60 sec, max 0.67 sec, min 0.52 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.95% of total time (compiled    7 times, average 0.54 sec, max 0.59 sec, min 0.50 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.41% of total time (compiled    8 times, average 0.41 sec, max 0.44 sec, min 0.38 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.11% of total time (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.12.09:765][267]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.12.09:987][282]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.29-21.12.09:987][282]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.29-21.12.09:987][282]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.09:987][282]MaterialEditorStats: Shader Count: 3
+[2023.08.29-21.12.10:086][289]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.29-21.12.10:086][289]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.29-21.12.10:086][289]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.29-21.12.10:086][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.10:086][289]MaterialEditorStats: Shader Count: 4
+[2023.08.29-21.12.15:532][697]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.12.15:532][697]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.15:532][697]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.12.15:577][699]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.29-21.12.15:577][699]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.29-21.12.15:577][699]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.29-21.12.15:577][699]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.15:577][699]MaterialEditorStats: Shader Count: 4
+[2023.08.29-21.12.16:720][778]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.12.16:721][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.16:721][778]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.12.39:561][519]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.12.43:008][778]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.12.43:064][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.29-21.12.43:108][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.08.29-21.12.43:120][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.12.43:984][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.12.43:986][778]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.12.43:986][778]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_LevelB679233542AB5C5A264839A8A12614B5.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.12.43:997][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 877 ms (total: 4.50 sec)
+[2023.08.29-21.12.44:001][778]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.12.44:001][778]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.12.44:002][778]MaterialEditorStats: Base pass shader without light map: 100 instructions
+[2023.08.29-21.12.44:002][778]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.29-21.12.44:002][778]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.12.44:002][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.12.44:002][778]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.12.54:196][603]LogContentBrowser: Deferred new asset file creation: PP_Level_Inst
+[2023.08.29-21.12.54:207][603]LogContentBrowser: Creating deferred item: PP_Level_Inst
+[2023.08.29-21.12.54:218][604]LogContentBrowser: Renaming the item being created (Deferred Item: PP_Level_Inst).
+[2023.08.29-21.12.59:766][258]LogContentBrowser: Attempting asset rename: PP_Level_Inst -> PPI_Outline
+[2023.08.29-21.12.59:767][258]LogContentBrowser: End creating deferred item PP_Level_Inst
+[2023.08.29-21.13.19:793][569]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.08.29-21.13.24:323][941]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.08.29-21.13.24:323][941]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.08.29-21.13.24:328][941]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_UAID_D8F883C93B3621A401_2123669151
+[2023.08.29-21.13.24:333][941]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_UAID_D8F883C93B3621A401_2123669151
+[2023.08.29-21.15.11:253][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.08.29-21.15.11:259][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00_Auto1
+[2023.08.29-21.15.11:259][274]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HC20AON9177YVAO32UQJ00_Auto1CCC80CD34DA8F960BADCDDBE5DAE037E.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00_Auto1.uasset'
+[2023.08.29-21.15.11:260][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2023.08.29-21.15.11:260][274]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2023.08.29-21.15.11:262][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat] ([1] browsable assets)...
+[2023.08.29-21.15.11:285][274]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat.HDRI_Epic_Courtyard_Daylight_Mat]
+[2023.08.29-21.15.11:285][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat]
+[2023.08.29-21.15.11:287][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat_Auto1
+[2023.08.29-21.15.11:287][274]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HDRI_Epic_Courtyard_Daylight_Mat58C80DA54690EBF923802A92F77C1F44.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat_Auto1.uasset'
+[2023.08.29-21.15.11:288][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/PostProcess/PPI_Outline] ([1] browsable assets)...
+[2023.08.29-21.15.11:297][274]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Game/PostProcess/PPI_Outline.PPI_Outline]
+[2023.08.29-21.15.11:297][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/PostProcess/PPI_Outline]
+[2023.08.29-21.15.11:298][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/PostProcess/PPI_Outline_Auto1
+[2023.08.29-21.15.11:298][274]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PPI_Outline_Auto14E4594654F345B3901541E8BECDD33DA.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/Game/PostProcess/PPI_Outline_Auto1.uasset'
+[2023.08.29-21.15.11:299][274]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.08.29-21.15.50:053][147]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.15.50:053][147]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.15.50:054][147]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Total job queries 138, among them cache hits 72 (52.17%)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 33 distinct outputs (50.00%)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: RAM used: 1.32 MiB of 819.20 MiB budget. Usage: 0.16%
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Shaders Compiled: 66
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100.00%)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Average time worker was idle: 47.67 s
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 0.96 s
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 2.15 s
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 2.18
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.93 s
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Average processing rate: 5.10 jobs/sec
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Total thread time: 37.484 s
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Total thread preprocess time: 1.581 s
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Percentage time preprocessing: 4.22%
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Effective parallelization: 2.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.09% of total time (compiled    9 times, average 0.71 sec, max 0.77 sec, min 0.61 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.36% of total time (compiled    9 times, average 0.60 sec, max 0.67 sec, min 0.52 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.60% of total time (compiled    8 times, average 0.54 sec, max 0.59 sec, min 0.50 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.81% of total time (compiled    8 times, average 0.41 sec, max 0.44 sec, min 0.38 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.33% of total time (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.15.50:081][148]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.16.17:981][189]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.16.17:981][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.16.17:981][189]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.16.18:805][243]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.16.18:805][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.16.18:805][243]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.16.22:783][538]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.16.22:837][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.29-21.16.22:884][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.29-21.16.22:894][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.16.23:778][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.16.23:780][538]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.16.23:781][538]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_LevelBEAC6D0A45E692013D5AD4AEB8B1703A.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.16.23:791][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 896 ms (total: 5.40 sec)
+[2023.08.29-21.16.23:796][538]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.16.23:796][538]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.16.23:797][538]MaterialEditorStats: Base pass shader without light map: 100 instructions
+[2023.08.29-21.16.23:797][538]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.29-21.16.23:797][538]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.16.23:797][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.16.23:797][538]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.16.26:970][765]LogSlate: Window 'PP_Level' being destroyed
+[2023.08.29-21.16.26:980][765]LogSlate: Window 'PP_Level' being destroyed
+[2023.08.29-21.16.26:987][765]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.16.26:987][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.17.06:801][725]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.29-21.17.06:816][725]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.29-21.17.06:830][726]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.29-21.17.11:844][293]LogContentBrowser: Attempting asset rename: NewFolder -> Functions
+[2023.08.29-21.17.11:844][293]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.29-21.17.18:935][925]LogContentBrowser: Deferred new asset file creation: NewMaterialFunction
+[2023.08.29-21.17.18:945][925]LogContentBrowser: Creating deferred item: NewMaterialFunction
+[2023.08.29-21.17.18:970][927]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterialFunction).
+[2023.08.29-21.17.43:584][829]LogContentBrowser: Attempting asset rename: NewMaterialFunction -> MF_GetKernel
+[2023.08.29-21.17.43:585][829]LogContentBrowser: End creating deferred item NewMaterialFunction
+[2023.08.29-21.17.45:730][ 20]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.17.45:737][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.17.45:737][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.17.45:854][ 20]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.17.45:859][ 20]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.17.45:886][ 20]MaterialEditorStats: Error: [SM6] Missing function output 'Result'
+[2023.08.29-21.17.45:895][ 20]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.17.55:427][705]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.17.55:434][705]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.17.55:437][705]MaterialEditorStats: Error: [SM6] Missing function output 'Center'
+[2023.08.29-21.18.03:410][ 44]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.09:488][476]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.09:493][476]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.12:151][671]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.12:157][671]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.14:474][840]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.23:434][467]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.23:441][467]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.25:078][565]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.25:085][565]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.27:763][750]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.32:293][ 76]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.32:298][ 76]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.35:578][312]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.35:583][312]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.40:136][642]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.45:960][ 58]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.45:966][ 58]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.47:973][201]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.47:978][201]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.18.59:709][ 27]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Total job queries 170, among them cache hits 90 (52.94%)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Tracking 79 distinct input hashes that result in 35 distinct outputs (44.30%)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: RAM used: 1.53 MiB of 819.20 MiB budget. Usage: 0.19%
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Shaders Compiled: 79
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Jobs assigned 80, completed 79 (98.75%)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Average time worker was idle: 63.18 s
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.96 s
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 2.15 s
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 2.18
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.66 s
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Average processing rate: 4.74 jobs/sec
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Total thread time: 44.588 s
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Total thread preprocess time: 1.877 s
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Percentage time preprocessing: 4.21%
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Effective parallelization: 2.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.72 sec, max 0.87 sec, min 0.61 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.76% of total time (compiled   11 times, average 0.72 sec, max 0.87 sec, min 0.61 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.46% of total time (compiled   12 times, average 0.61 sec, max 0.75 sec, min 0.52 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.23% of total time (compiled    9 times, average 0.56 sec, max 0.66 sec, min 0.50 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.50% of total time (compiled    9 times, average 0.42 sec, max 0.49 sec, min 0.38 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 4.05% of total time (compiled    5 times, average 0.36 sec, max 0.46 sec, min 0.30 sec)
+[2023.08.29-21.19.00:677][ 86]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.19.01:741][157]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.05:595][422]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.05:602][422]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.16:031][161]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.16:039][161]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.31:422][247]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.33:694][407]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.33:699][407]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.36:210][575]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.19.52:067][667]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Center'
+
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Total job queries 284, among them cache hits 188 (66.20%)
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 44 distinct outputs (45.83%)
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: RAM used: 1.84 MiB of 819.20 MiB budget. Usage: 0.22%
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Shaders Compiled: 96
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Jobs assigned 96, completed 96 (100.00%)
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Average time worker was idle: 62.73 s
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.96 s
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 2.15 s
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 2.18
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.96 s
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Average processing rate: 4.37 jobs/sec
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Total thread time: 55.498 s
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Total thread preprocess time: 2.353 s
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Percentage time preprocessing: 4.24%
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.22.04:626][244]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.91% of total time (compiled   19 times, average 0.70 sec, max 0.87 sec, min 0.59 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.25% of total time (compiled   19 times, average 0.62 sec, max 0.82 sec, min 0.52 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.17% of total time (compiled   10 times, average 0.56 sec, max 0.66 sec, min 0.50 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.67% of total time (compiled   10 times, average 0.43 sec, max 0.49 sec, min 0.38 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 3.26% of total time (compiled    5 times, average 0.36 sec, max 0.46 sec, min 0.30 sec)
+[2023.08.29-21.22.04:627][244]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Total job queries 390, among them cache hits 294 (75.38%)
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 44 distinct outputs (45.83%)
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: RAM used: 1.84 MiB of 819.20 MiB budget. Usage: 0.22%
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Shaders Compiled: 96
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Jobs assigned 96, completed 96 (100.00%)
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Average time worker was idle: 62.73 s
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.96 s
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 2.15 s
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 2.18
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.96 s
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.25.22:642][831]LogShaderCompilers: Display: Average processing rate: 4.37 jobs/sec
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: Total thread time: 55.498 s
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: Total thread preprocess time: 2.353 s
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: Percentage time preprocessing: 4.24%
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.91% of total time (compiled   19 times, average 0.70 sec, max 0.87 sec, min 0.59 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.25% of total time (compiled   19 times, average 0.62 sec, max 0.82 sec, min 0.52 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.17% of total time (compiled   10 times, average 0.56 sec, max 0.66 sec, min 0.50 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.67% of total time (compiled   10 times, average 0.43 sec, max 0.49 sec, min 0.38 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 3.26% of total time (compiled    5 times, average 0.36 sec, max 0.46 sec, min 0.30 sec)
+[2023.08.29-21.25.22:643][831]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.25.58:781][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '/Script/Engine.MaterialExpressionConstant2Vector'"MaterialGraphNode_12.MaterialExpressionConstant2Vector_2"',Mask=1,MaskR=1,MaskG=1)'
+[2023.08.29-21.25.58:781][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '/Script/Engine.MaterialExpressionMultiply'"MaterialGraphNode_13.MaterialExpressionMultiply_0"')'
+[2023.08.29-21.25.58:781][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '/Script/Engine.MaterialExpressionMultiply'"MaterialGraphNode_15.MaterialExpressionMultiply_1"')'
+[2023.08.29-21.25.58:782][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '/Script/Engine.MaterialExpressionMultiply'"MaterialGraphNode_16.MaterialExpressionMultiply_2"')'
+[2023.08.29-21.25.58:782][670]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '/Script/Engine.MaterialExpressionMultiply'"MaterialGraphNode_15.MaterialExpressionMultiply_1"')'
+[2023.08.29-21.26.47:746][938]LogMaterialEditor: Saving and Compiling material MF_GetKernel
+[2023.08.29-21.26.47:801][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.26.47:874][938]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_GetKernel
+[2023.08.29-21.26.47:874][938]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_GetKernel183A88514AFC82606E383C992719D6EC.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_GetKernel.uasset'
+[2023.08.29-21.26.47:895][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 5.50 sec)
+[2023.08.29-21.26.47:900][938]AssetCheck: New page: Asset Save: MF_GetKernel
+[2023.08.29-21.26.47:900][938]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.26.56:884][559]LogSlate: Window 'MF_GetKernel' being destroyed
+[2023.08.29-21.26.56:893][559]LogSlate: Window 'MF_GetKernel' being destroyed
+[2023.08.29-21.26.56:938][559]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.26.56:938][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.27.05:025][ 51]LogContentBrowser: Deferred new asset file creation: NewMaterialFunction
+[2023.08.29-21.27.05:036][ 51]LogContentBrowser: Creating deferred item: NewMaterialFunction
+[2023.08.29-21.27.05:048][ 52]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterialFunction).
+[2023.08.29-21.27.13:692][969]LogContentBrowser: Attempting asset rename: NewMaterialFunction -> MF_DetectEdges_Depth
+[2023.08.29-21.27.13:694][969]LogContentBrowser: End creating deferred item NewMaterialFunction
+[2023.08.29-21.27.16:236][175]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.27.16:239][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.27.16:239][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.27.16:421][175]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.27.20:018][424]LogMaterialEditor: Saving and Compiling material MF_GetKernel
+[2023.08.29-21.27.20:020][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.27.20:074][424]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_GetKernel
+[2023.08.29-21.27.20:075][424]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_GetKernel09F227D549267D9DA762E9BEA717DED0.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_GetKernel.uasset'
+[2023.08.29-21.27.20:088][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 5.56 sec)
+[2023.08.29-21.27.20:093][424]AssetCheck: New page: Asset Save: MF_GetKernel
+[2023.08.29-21.27.20:093][424]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.27.24:411][724]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+[2023.08.29-21.27.24:413][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.27.24:413][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.27.24:488][724]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.24:491][724]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.24:521][724]MaterialEditorStats: Error: [SM6] Missing function output 'Result'
+[2023.08.29-21.27.24:560][724]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.27.32:448][279]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.38:651][721]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.38:669][721]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.38:674][721]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.39:918][803]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.39:925][803]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.45:176][166]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.47:071][300]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.49:485][464]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.55:848][912]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.58:943][118]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.59:700][167]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.27.59:704][167]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.03:902][462]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.03:907][462]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.07:629][721]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.09:538][853]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.09:543][853]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.12:017][ 24]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.45:787][345]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.28.51:130][717]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.05:831][760]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.07:021][844]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.07:386][869]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.07:686][889]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.09:244][997]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.15:985][461]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.18:966][667]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.20:208][747]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.21:760][851]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.24:229][ 17]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.44:451][439]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.46:497][581]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.48:207][696]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.51:655][938]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.58:032][232]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.58:963][297]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.29.59:175][311]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.14:438][394]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.15:915][498]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.17:695][621]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.19:334][737]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.22:638][973]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.24:095][ 74]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.27:236][291]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.32:362][656]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.34:397][799]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.41:808][206]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.30.43:843][345]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.08:818][111]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.14:778][532]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.20:650][935]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.23:738][147]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.35:822][986]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.37:298][ 86]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.31.48:022][683]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.01:721][514]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.06:865][876]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.08:752][  8]LogEditorTransaction: Undo Material Editor: Delete
+[2023.08.29-21.32.08:771][  8]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Total job queries 490, among them cache hits 380 (77.55%)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Tracking 110 distinct input hashes that result in 46 distinct outputs (41.82%)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: RAM used: 2.10 MiB of 819.20 MiB budget. Usage: 0.26%
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Shaders Compiled: 110
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Jobs assigned 110, completed 110 (100.00%)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Average time worker was idle: 70.27 s
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.96 s
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 2.15 s
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 2.18
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.01 s
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Jobs were issued in 110 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Average processing rate: 4.23 jobs/sec
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Total thread time: 64.462 s
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Total thread preprocess time: 2.668 s
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Percentage time preprocessing: 4.14%
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.23% of total time (compiled   23 times, average 0.71 sec, max 0.87 sec, min 0.59 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.62% of total time (compiled   23 times, average 0.63 sec, max 0.82 sec, min 0.52 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.60% of total time (compiled   13 times, average 0.58 sec, max 0.68 sec, min 0.50 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.70% of total time (compiled   13 times, average 0.43 sec, max 0.50 sec, min 0.38 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 2.80% of total time (compiled    5 times, average 0.36 sec, max 0.46 sec, min 0.30 sec)
+[2023.08.29-21.32.08:877][ 10]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.32.17:395][582]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.17:401][582]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.28:116][214]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.34:020][634]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.39:373][ 10]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.41:284][138]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.42:677][235]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.51:105][607]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.54:553][842]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.32.56:440][971]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.33.34:460][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.29-21.33.34:464][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00_Auto2
+[2023.08.29-21.33.34:464][165]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HC20AON9177YVAO32UQJ00_Auto22E5A17CF4D7260319D7C10945E422957.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00_Auto2.uasset'
+[2023.08.29-21.33.34:466][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2023.08.29-21.33.34:466][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.08.29-21.33.34:466][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat] ([1] browsable assets)...
+[2023.08.29-21.33.34:466][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat]
+[2023.08.29-21.33.34:467][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat_Auto2
+[2023.08.29-21.33.34:468][165]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HDRI_Epic_Courtyard_Daylight_Mat196701AC4DB63F85D3CF3688689913F0.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat_Auto2.uasset'
+[2023.08.29-21.33.34:469][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/PostProcess/PPI_Outline] ([1] browsable assets)...
+[2023.08.29-21.33.34:469][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/PostProcess/PPI_Outline]
+[2023.08.29-21.33.34:470][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/PostProcess/PPI_Outline_Auto2
+[2023.08.29-21.33.34:470][165]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PPI_Outline_Auto2EA19C8524C6A90C6CDA058BBCBA0C83C.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/Game/PostProcess/PPI_Outline_Auto2.uasset'
+[2023.08.29-21.33.34:473][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/PostProcess/Functions/MF_DetectEdges_Depth] ([1] browsable assets)...
+[2023.08.29-21.33.34:483][165]OBJ SavePackage:     Rendered thumbnail for [MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth]
+[2023.08.29-21.33.34:483][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/PostProcess/Functions/MF_DetectEdges_Depth]
+[2023.08.29-21.33.34:485][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/PostProcess/Functions/MF_DetectEdges_Depth_Auto2
+[2023.08.29-21.33.34:485][165]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_DetectEdges_Depth_Auto2C09CD0EF45A68C54173EE2A7CA06136B.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/Game/PostProcess/Functions/MF_DetectEdges_Depth_Auto2.uasset'
+[2023.08.29-21.33.34:486][165]LogFileHelpers: Auto-saving content packages took 0.020
+[2023.08.29-21.33.39:900][540]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.33.39:906][540]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.33.59:276][918]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.02:614][148]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.04:161][252]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.06:517][416]LogEditorTransaction: Undo Create Pin Link
+[2023.08.29-21.34.06:528][416]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.06:995][428]LogEditorTransaction: Undo Create Pin Link
+[2023.08.29-21.34.07:004][428]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.08:954][554]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.11:523][727]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2023.08.29-21.34.15:196][975]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.34.15:206][975]MaterialEditorStats: Error: [SM6] Only transparent or postprocess materials can read from scene depth.
+[2023.08.29-21.34.23:392][548]LogMaterialEditor: Saving and Compiling material MF_DetectEdges_Depth
+[2023.08.29-21.34.23:431][548]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.34.23:443][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.34.23:478][548]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth
+[2023.08.29-21.34.23:478][548]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_DetectEdges_DepthC7CACA5D449C1BC9BEE82BB2B3A264E7.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_DetectEdges_Depth.uasset'
+[2023.08.29-21.34.23:507][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 5.63 sec)
+[2023.08.29-21.34.23:511][548]AssetCheck: New page: Asset Save: MF_DetectEdges_Depth
+[2023.08.29-21.34.23:511][548]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+[2023.08.29-21.34.23:552][550]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.34.49:742][247]LogSlate: Window 'Message' being destroyed
+[2023.08.29-21.34.49:757][247]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+(Selecting 'No' will cause all changes to be lost!)
+[2023.08.29-21.34.49:783][247]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.34.49:838][247]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.34.49:838][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.34.49:860][247]LogViewport: Scene viewport resized to 794x450, mode Windowed.
+[2023.08.29-21.34.49:907][248]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.34.52:460][346]LogSlate: Window 'Message' being destroyed
+[2023.08.29-21.34.52:469][346]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+(Selecting 'No' will cause all changes to be lost!)
+[2023.08.29-21.34.52:530][346]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.34.52:532][346]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.34.52:550][346]LogSlate: Window 'MF_GetKernel' being destroyed
+[2023.08.29-21.34.52:564][346]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.34.52:564][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.34.54:895][565]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.35.05:099][538]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.35.05:105][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.35.05:105][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.35.05:245][538]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.35.05:245][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.05:245][538]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.35.05:255][538]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.35.05:730][567]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.35.05:730][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.05:730][567]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.35.31:184][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.35.31:184][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.31:184][ 50]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Total job queries 524, among them cache hits 400 (76.34%)
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 47 distinct outputs (37.90%)
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: RAM used: 2.34 MiB of 819.20 MiB budget. Usage: 0.29%
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Shaders Compiled: 124
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Jobs assigned 124, completed 124 (100.00%)
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Average time worker was idle: 92.43 s
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.96 s
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 2.15 s
+[2023.08.29-21.35.31:212][ 51]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 2.18
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.60 s
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Jobs were issued in 124 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Average processing rate: 4.19 jobs/sec
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Total thread time: 73.89 s
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Total thread preprocess time: 3.026 s
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Percentage time preprocessing: 4.10%
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Effective parallelization: 2.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.22% of total time (compiled   26 times, average 0.72 sec, max 1.02 sec, min 0.59 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.73% of total time (compiled   26 times, average 0.65 sec, max 0.95 sec, min 0.52 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.05% of total time (compiled   15 times, average 0.59 sec, max 0.85 sec, min 0.50 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.01% of total time (compiled   15 times, average 0.44 sec, max 0.63 sec, min 0.38 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display:                                             FDebugViewModeVS - 3.62% of total time (compiled    5 times, average 0.54 sec, max 0.87 sec, min 0.39 sec)
+[2023.08.29-21.35.31:213][ 51]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.35.31:228][ 52]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.35.31:228][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.31:228][ 52]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.35.36:525][424]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.35.36:525][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.36:525][424]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.35.37:345][475]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.35.37:345][475]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.37:345][475]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.35.49:123][318]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.35.49:123][318]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.49:123][318]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.35.49:147][320]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.35.49:147][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.49:148][320]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.35.50:737][431]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.35.50:737][431]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.50:737][431]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.35.50:758][433]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.35.50:758][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.50:758][433]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.35.53:306][605]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.35.53:306][605]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.53:306][605]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.35.53:359][607]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.35.53:360][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.35.53:360][607]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.36.07:773][627]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.36.07:773][627]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.36.07:773][627]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.36.07:796][629]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.36.07:796][629]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.36.07:796][629]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.36.09:041][716]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.36.09:041][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.36.09:041][716]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.36.09:068][718]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.36.09:068][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.36.09:068][718]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.36.38:789][221]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.36.38:789][221]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.36.38:789][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.36.38:789][221]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.36.39:514][269]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.36.39:514][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.36.39:514][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.36.39:514][269]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.36.59:852][620]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.36.59:898][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.29-21.36.59:946][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.29-21.36.59:957][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.37.00:946][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.37.00:949][620]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.37.00:950][620]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_LevelB4315E264FD7B24B9CA55E8872EA8710.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.37.00:964][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 6.64 sec)
+[2023.08.29-21.37.00:970][620]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.37.00:970][620]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.37.00:971][620]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2023.08.29-21.37.00:971][620]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.29-21.37.00:971][620]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.37.00:971][620]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.37.00:971][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.37.00:971][620]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.37.14:472][ 24]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+[2023.08.29-21.37.14:474][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.37.14:474][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.37.14:552][ 24]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.14:558][ 24]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.14:588][ 24]MaterialEditorStats: Error: [SM6] Only transparent or postprocess materials can read from scene depth.
+[2023.08.29-21.37.14:626][ 24]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.37.40:934][453]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.48:207][984]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.48:213][984]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.55:335][499]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.57:275][634]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.37.59:614][797]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.38.02:071][976]LogMaterialEditor: Saving and Compiling material MF_DetectEdges_Depth
+[2023.08.29-21.38.02:108][976]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_4: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.38.02:153][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.38.02:190][976]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth
+[2023.08.29-21.38.02:190][976]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_DetectEdges_Depth342019B4407A166751F297BCA68673D9.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_DetectEdges_Depth.uasset'
+[2023.08.29-21.38.02:202][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 6.69 sec)
+[2023.08.29-21.38.02:205][976]AssetCheck: New page: Asset Save: MF_DetectEdges_Depth
+[2023.08.29-21.38.02:205][976]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+[2023.08.29-21.38.02:207][976]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.38.02:207][976]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.02:207][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.02:207][976]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.38.03:350][ 38]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.38.03:350][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.03:350][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.03:350][ 38]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.38.03:637][ 54]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2023.08.29-21.38.03:637][ 54]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.38.03:637][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.03:637][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.03:637][ 54]MaterialEditorStats: Shader Count: 3
+[2023.08.29-21.38.04:050][ 77]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.38.04:051][ 77]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2023.08.29-21.38.04:051][ 77]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.29-21.38.04:051][ 77]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.38.04:051][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.04:051][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.04:051][ 77]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.38.06:098][218]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.38.06:098][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.38.06:120][218]LogViewport: Scene viewport resized to 794x458, mode Windowed.
+[2023.08.29-21.38.06:154][219]LogViewport: Scene viewport resized to 794x451, mode Windowed.
+[2023.08.29-21.38.06:200][220]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.38.09:250][439]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.38.09:252][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.38.09:297][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.38.09:299][439]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.38.09:300][439]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_Level1A2F08954EE5FFB8BE718992B64C0272.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.38.09:309][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 6.74 sec)
+[2023.08.29-21.38.09:313][439]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.38.09:313][439]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.38.10:408][520]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.38.10:410][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.38.10:456][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.38.10:458][520]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.38.10:458][520]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_Level656AFDF34677824C70B0DA84A167A271.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.38.10:468][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.80 sec)
+[2023.08.29-21.38.10:473][520]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.38.10:473][520]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.38.13:998][773]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.38.13:998][773]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.29-21.38.13:998][773]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.38.23:308][405]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.38.23:308][405]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.23:308][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.23:308][405]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.38.23:335][407]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.38.23:335][407]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.23:335][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.23:335][407]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.38.27:895][736]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.38.27:952][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.29-21.38.28:000][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.29-21.38.28:011][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.38.28:081][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.38.28:083][736]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.38.28:083][736]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_Level5FC884D44584CE21DA34B196521C0655.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.38.28:093][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.88 sec)
+[2023.08.29-21.38.28:097][736]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.38.28:097][736]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.38.28:098][736]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2023.08.29-21.38.28:098][736]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.29-21.38.28:098][736]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.38.28:098][736]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.38.28:098][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.38.28:098][736]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.38.30:692][912]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+[2023.08.29-21.38.30:695][912]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.38.30:695][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.38.30:768][912]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_5: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.38.30:773][912]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_5: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.38.30:788][912]MaterialEditorStats: Error: [SM6] Only transparent or postprocess materials can read from scene depth.
+[2023.08.29-21.38.30:827][912]LogViewport: Scene viewport resized to 794x446, mode Windowed.
+[2023.08.29-21.38.30:869][913]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.41.07:607][283]LogMaterialEditor: Saving and Compiling material MF_DetectEdges_Depth
+[2023.08.29-21.41.07:646][283]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_5: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.41.07:690][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.41.07:727][283]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth
+[2023.08.29-21.41.07:728][283]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_DetectEdges_Depth3A5BF1C44AA4F8D678EC9A9949449B38.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_DetectEdges_Depth.uasset'
+[2023.08.29-21.41.07:740][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 6.93 sec)
+[2023.08.29-21.41.07:745][283]AssetCheck: New page: Asset Save: MF_DetectEdges_Depth
+[2023.08.29-21.41.07:745][283]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_DetectEdges_Depth.MF_DetectEdges_Depth
+[2023.08.29-21.41.07:745][283]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.41.07:746][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.41.07:746][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.41.07:746][283]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Total job queries 638, among them cache hits 489 (76.65%)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Tracking 149 distinct input hashes that result in 51 distinct outputs (34.23%)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: RAM used: 2.71 MiB of 819.20 MiB budget. Usage: 0.33%
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Shaders Compiled: 149
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Jobs assigned 149, completed 149 (100.00%)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Average time worker was idle: 110.92 s
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.07 s
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 2.15 s
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 2.18
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.70 s
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Jobs were issued in 149 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Average processing rate: 4.29 jobs/sec
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Total thread time: 87.593 s
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Total thread preprocess time: 3.537 s
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Percentage time preprocessing: 4.04%
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Effective parallelization: 2.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.73 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   29 times, average 0.74 sec, max 1.04 sec, min 0.59 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.34% of total time (compiled   29 times, average 0.74 sec, max 1.04 sec, min 0.59 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.76% of total time (compiled   29 times, average 0.66 sec, max 0.96 sec, min 0.52 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.16% of total time (compiled   15 times, average 0.59 sec, max 0.85 sec, min 0.50 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.60% of total time (compiled   15 times, average 0.44 sec, max 0.63 sec, min 0.38 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 5.95% of total time (compiled   13 times, average 0.40 sec, max 0.59 sec, min 0.30 sec)
+[2023.08.29-21.41.07:749][283]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.41.07:765][284]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2023.08.29-21.41.07:765][284]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.29-21.41.07:765][284]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.41.07:765][284]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.41.07:765][284]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.41.07:765][284]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.41.07:784][285]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.41.52:680][607]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.41.52:682][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.41.52:682][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.41.52:840][607]LogViewport: Scene viewport resized to 794x444, mode Windowed.
+[2023.08.29-21.43.03:090][ 99]LogMaterialEditor: Saving and Compiling material MF_GetKernel
+[2023.08.29-21.43.03:172][ 99]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.43.03:190][ 99]LogMaterial: Warning: [AssetLog] C:\Users\loren\OneDrive\Desktop\GAT360Final\GAT360Final\Content\Game\PostProcess\Functions\MF_DetectEdges_Depth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.43.03:199][ 99]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_5: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2023.08.29-21.43.03:203][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.43.03:253][ 99]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_GetKernel
+[2023.08.29-21.43.03:254][ 99]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_GetKernelB2B0D7C44359869FDB681A8F4A496F24.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_GetKernel.uasset'
+[2023.08.29-21.43.03:271][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.00 sec)
+[2023.08.29-21.43.03:276][ 99]AssetCheck: New page: Asset Save: MF_GetKernel
+[2023.08.29-21.43.03:277][ 99]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.43.03:278][ 99]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.43.03:278][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.43.03:278][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.43.03:278][ 99]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.43.04:635][173]LogMaterialEditor: Saving and Compiling material MF_GetKernel
+[2023.08.29-21.43.04:637][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.43.04:696][173]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/Functions/MF_GetKernel
+[2023.08.29-21.43.04:696][173]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/MF_GetKernel190149444AFDE536387800AC0FC2F60E.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/Functions/MF_GetKernel.uasset'
+[2023.08.29-21.43.04:714][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 7.08 sec)
+[2023.08.29-21.43.04:719][173]AssetCheck: New page: Asset Save: MF_GetKernel
+[2023.08.29-21.43.04:719][173]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Game/PostProcess/Functions/MF_GetKernel.MF_GetKernel
+[2023.08.29-21.43.06:590][265]MaterialEditorStats: Base pass shader without light map: 103 instructions
+[2023.08.29-21.43.06:590][265]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.29-21.43.06:590][265]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.43.06:590][265]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.43.06:590][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.43.06:590][265]MaterialEditorStats: Shader Count: 6
+[2023.08.29-21.43.52:844][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.29-21.43.52:847][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00_Auto3
+[2023.08.29-21.43.52:847][293]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HC20AON9177YVAO32UQJ00_Auto38BCEEA58464D846DA04A7EA02BD28B5B.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00_Auto3.uasset'
+[2023.08.29-21.43.52:850][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.015
+[2023.08.29-21.43.52:850][293]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2023.08.29-21.43.52:850][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat] ([1] browsable assets)...
+[2023.08.29-21.43.52:850][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat]
+[2023.08.29-21.43.52:851][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat_Auto3
+[2023.08.29-21.43.52:851][293]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HDRI_Epic_Courtyard_Daylight_MatB58590634E71165A738FC8B328004821.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat_Auto3.uasset'
+[2023.08.29-21.43.52:853][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/PostProcess/PPI_Outline] ([1] browsable assets)...
+[2023.08.29-21.43.52:853][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/PostProcess/PPI_Outline]
+[2023.08.29-21.43.52:854][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/PostProcess/PPI_Outline_Auto3
+[2023.08.29-21.43.52:854][293]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PPI_Outline_Auto389406044408C7E28928677B5EF0A9A0D.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/Autosaves/Game/Game/PostProcess/PPI_Outline_Auto3.uasset'
+[2023.08.29-21.43.52:855][293]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.08.29-21.44.01:790][320]LogMaterialEditor: Saving and Compiling material PP_Level
+[2023.08.29-21.44.01:792][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.44.01:832][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/PostProcess/PP_Level" FILE="../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset" SILENT=true
+[2023.08.29-21.44.01:834][320]LogSavePackage: Moving output files for package: /Game/Game/PostProcess/PP_Level
+[2023.08.29-21.44.01:835][320]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/PP_LevelFA1CBACA49F72DDAA8FC58B84711736C.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/PostProcess/PP_Level.uasset'
+[2023.08.29-21.44.01:850][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 7.14 sec)
+[2023.08.29-21.44.01:852][320]AssetCheck: New page: Asset Save: PP_Level
+[2023.08.29-21.44.01:853][320]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/PostProcess/PP_Level.PP_Level
+[2023.08.29-21.44.18:368][523]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.18:369][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.18:369][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.18:369][523]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Total job queries 703, among them cache hits 523 (74.40%)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Tracking 180 distinct input hashes that result in 54 distinct outputs (30.00%)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: RAM used: 3.27 MiB of 819.20 MiB budget. Usage: 0.40%
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Shaders Compiled: 180
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Jobs assigned 180, completed 180 (100.00%)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Average time worker was idle: 112.50 s
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.98 s
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 3.34 s
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 3.37
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.34 s
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Jobs were issued in 168 batches (only local compilation was used), average 1.07 jobs/batch
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Average processing rate: 4.46 jobs/sec
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Total thread time: 114.601 s
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Total thread preprocess time: 4.23 s
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Percentage time preprocessing: 3.69%
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Effective parallelization: 2.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.81 sec, max 0.82 sec, min 0.81 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   35 times, average 0.78 sec, max 1.20 sec, min 0.59 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   12 times, average 0.74 sec, max 1.39 sec, min 0.39 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.84% of total time (compiled   35 times, average 0.78 sec, max 1.20 sec, min 0.59 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.20% of total time (compiled   35 times, average 0.73 sec, max 1.38 sec, min 0.52 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.22% of total time (compiled   19 times, average 0.62 sec, max 0.85 sec, min 0.50 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.79% of total time (compiled   12 times, average 0.74 sec, max 1.39 sec, min 0.39 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.69% of total time (compiled   19 times, average 0.46 sec, max 0.74 sec, min 0.38 sec)
+[2023.08.29-21.44.18:383][524]LogShaderCompilers: Display: ================================================
+[2023.08.29-21.44.18:392][525]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.18:393][525]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.18:393][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.18:393][525]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.20:688][690]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.20:688][690]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.20:688][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.20:688][690]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.20:712][692]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.20:713][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.20:713][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.20:713][692]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.25:192][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.25:192][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.25:192][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.25:192][ 15]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.25:216][ 17]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.25:216][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.25:216][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.25:216][ 17]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.28:357][242]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.28:358][242]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.28:358][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.28:358][242]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.28:376][244]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.28:376][244]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.28:376][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.28:376][244]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.30:992][433]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.30:992][433]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.30:992][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.30:992][433]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.31:015][435]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.31:015][435]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.31:015][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.31:015][435]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.34:548][691]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.34:548][691]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.34:548][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.34:548][691]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.34:571][693]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.34:571][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.34:571][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.34:571][693]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.43:937][372]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.43:937][372]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.43:937][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.43:937][372]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.43:962][374]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.43:962][374]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.43:962][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.43:962][374]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.44.56:811][292]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.44.56:811][292]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.56:811][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.56:811][292]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.44.56:846][294]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.44.56:846][294]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.44.56:846][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.44.56:846][294]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.45.00:742][566]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.45.00:742][566]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.45.00:742][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.00:742][566]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.45.00:765][568]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.45.00:765][568]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.45.00:765][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.00:765][568]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.45.05:820][935]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.45.05:820][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.45.05:820][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.05:820][935]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.45.05:849][937]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.45.05:849][937]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.08.29-21.45.05:849][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.05:849][937]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.45.07:477][ 49]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.45.07:477][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.08.29-21.45.07:477][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.07:477][ 49]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.45.08:172][ 95]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.29-21.45.08:172][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.08.29-21.45.08:172][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.08:172][ 95]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.45.10:425][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.45.10:425][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.45.10:425][241]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.45.10:903][275]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.29-21.45.10:903][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.08.29-21.45.10:903][275]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.45.13:815][477]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function MF_DetectEdges_Depth: Missing function input 'Threshold'
+	Function MF_DetectEdges_Depth: Missing function input 'Thickness'
+
+[2023.08.29-21.45.13:826][477]MaterialEditorStats: Error: [SM6] Function MF_DetectEdges_Depth: Missing function input 'Threshold'
+[2023.08.29-21.45.13:826][477]MaterialEditorStats: Error: [SM6] Function MF_DetectEdges_Depth: Missing function input 'Thickness'
+[2023.08.29-21.45.15:723][611]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_3: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Function MF_DetectEdges_Depth: Missing function input 'Thickness'
+
+[2023.08.29-21.45.15:727][611]MaterialEditorStats: Error: [SM6] Function MF_DetectEdges_Depth: Missing function input 'Thickness'
+[2023.08.29-21.45.17:808][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.29-21.45.17:808][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.08.29-21.45.17:808][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.17:808][756]MaterialEditorStats: Shader Count: 0
+[2023.08.29-21.45.17:838][758]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.29-21.45.17:838][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.08.29-21.45.17:838][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.29-21.45.17:838][758]MaterialEditorStats: Shader Count: 2
+[2023.08.29-21.47.01:301][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-21.47.01:343][ 54]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00
+[2023.08.29-21.47.01:343][ 54]LogSavePackage: Moving '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Saved/HC20AON9177YVAO32UQJ00281A386A4F0C52A1586E75BD4DFBD168.tmp' to '../../../../../../Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QS/HC20AON9177YVAO32UQJ00.uasset'
+[2023.08.29-21.47.01:355][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 7.19 sec)
+[2023.08.29-21.47.01:362][ 54]AssetCheck: New page: Asset Save: PostProcessVolume_UAID_D8F883C93B3621A401_2123669151
+[2023.08.29-21.47.01:362][ 54]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_UAID_D8F883C93B3621A401_2123669151
+[2023.08.29-21.47.02:732][209]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.29-21.47.02:738][209]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.29-21.47.02:745][209]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.29-21.47.02:745][209]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.29-21.47.02:745][209]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 315 us)
+[2023.08.29-21.47.02:745][209]LogWorldPartition: Display: GenerateStreaming took 188 us (total: 899 us)
+[2023.08.29-21.47.02:745][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.29-21.47.02:745][209]PIE: New page: PIE session: ThirdPersonMap (Aug 29, 2023, 9:47:02 AM)
+[2023.08.29-21.47.02:746][209]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.29-21.47.02:751][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005672s)
+[2023.08.29-21.47.02:751][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005707s)
+[2023.08.29-21.47.02:751][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-21.47.02:752][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-21.47.02:752][209]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.29-21.47.02:753][209]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.29-21.47.02:753][209]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.29-21.47.02:753][209]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.29-21.47.02:754][209]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.08.29-21.47.02:754][209]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 710 ms)
+[2023.08.29-21.47.02:754][209]LogPlayLevel: PIE: World Init took: (0.002854s)
+[2023.08.29-21.47.02:762][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.29-21.47.02:764][209]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.29-21.47.02:764][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.29-21.47.02:764][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.29-21.47.02:764][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.29-21.47.02:764][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.29-21.47.02:764][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.29-21.47.02:768][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.29-21.47.02:790][209]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JBL Clip 4)
+[2023.08.29-21.47.02:791][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.29-21.47.02:791][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.29-21.47.02:791][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.29-21.47.02:792][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.08.29-21.47.02:792][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.08.29-21.47.02:793][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.08.29-21.47.02:793][209]LogInit: FAudioDevice initialized with ID 3.
+[2023.08.29-21.47.02:793][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.08.29-21.47.02:793][209]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.08.29-21.47.02:793][209]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.29-21.47.02:798][209]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.29-21.47.02:800][209]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.29-15.47.02
+[2023.08.29-21.47.02:800][209]LogWorld: Bringing up level for play took: 0.001749
+[2023.08.29-21.47.02:802][209]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.08.29-21.47.02:808][209]PIE: Server logged in
+[2023.08.29-21.47.02:809][209]PIE: Play in editor total start time 0.07 seconds.
+[2023.08.29-21.47.11:878][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.29-21.47.11:878][197]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.29-21.47.11:878][197]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.29-21.47.11:879][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.47.11:879][197]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.08.29-21.47.11:882][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.29-21.47.11:885][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.29-21.47.11:893][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.29-21.47.11:894][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.29-21.47.11:894][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.29-21.47.11:895][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.29-21.47.11:898][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.29-21.47.11:900][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.29-21.47.11:968][198]LogPlayLevel: Display: Destroying online subsystem :Context_14
