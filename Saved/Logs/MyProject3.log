@@ -7643,3 +7643,49 @@ Script Stack (0 frames) :
 [2023.08.30-00.38.42:298][465]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{febeb05c-9199-4b84-84c2-0ba275aad8b4}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=933.54
 [2023.08.30-00.38.42:298][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.08.30-00.38.42:300][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.30-00.39.33:385][679]LogMaterialEditor: Saving and Compiling material M_HoloMat
+[2023.08.30-00.39.33:688][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: ================================================
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Total job queries 3,725, among them cache hits 122 (3.28%)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Tracking 3,599 distinct input hashes that result in 2,545 distinct outputs (70.71%)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: RAM used: 59.82 MiB of 1.60 GiB budget. Usage: 3.65%
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Shaders Compiled: 3,599
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Jobs assigned 3,603, completed 3,599 (99.89%)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Average time worker was idle: 108.11 s
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Time job spent in pending queue: average 103.74 s, longest 231.76 s
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Job execution time: average 5.36 s, max 17.44 s
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Job life time (pending + execution): average 109.21 s, max 235.31
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 276.82 s
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Jobs were issued in 498 batches (only local compilation was used), average 7.23 jobs/batch
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Average processing rate: 13.00 jobs/sec
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Total thread time: 1,993.44 s
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Total thread preprocess time: 67.654 s
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Percentage time preprocessing: 3.39%
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Effective parallelization: 7.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.22 sec, max 6.87 sec, min 1.34 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.98 sec, max 4.64 sec, min 2.58 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 1.96 sec, max 2.95 sec, min 1.09 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.14% of total time (compiled  150 times, average 1.35 sec, max 2.31 sec, min 0.96 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.02% of total time (compiled   96 times, average 1.04 sec, max 1.49 sec, min 0.69 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.64% of total time (compiled  128 times, average 0.72 sec, max 1.15 sec, min 0.39 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.30% of total time (compiled   96 times, average 0.89 sec, max 1.23 sec, min 0.44 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.27% of total time (compiled  128 times, average 0.67 sec, max 0.93 sec, min 0.44 sec)
+[2023.08.30-00.39.34:383][679]LogShaderCompilers: Display: ================================================
+[2023.08.30-00.39.34:505][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.30-00.39.34:515][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-00.39.36:231][679]LogSavePackage: Moving output files for package: /Game/Game/Character/Hologram/M_HoloMat
+[2023.08.30-00.39.36:231][679]LogSavePackage: Moving '../../../../../../Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Saved/M_HoloMatE6E5CDCB4D8E0EAF420C37BB6CF4AACB.tmp' to '../../../../../../Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/Game/Character/Hologram/M_HoloMat.uasset'
+[2023.08.30-00.39.36:237][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.72 sec (total: 6.81 sec)
+[2023.08.30-00.39.36:243][679]AssetCheck: New page: Asset Save: M_HoloMat
+[2023.08.30-00.39.36:243][679]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Game/Character/Hologram/M_HoloMat.M_HoloMat
+[2023.08.30-00.39.36:244][679]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.08.30-00.39.36:244][679]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.08.30-00.39.36:244][679]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.30-00.39.36:244][679]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.30-00.39.36:244][679]MaterialEditorStats: Shader Count: 20
