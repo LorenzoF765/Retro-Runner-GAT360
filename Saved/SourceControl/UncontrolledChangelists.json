@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/Game/HoloTest.umap",
+				"C:/Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/Game/Character/Player/BP_Player.uasset",
+				"C:/Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/Game/BP_HologramGameMode.uasset",
+				"C:/Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/ThirdPerson/Input/Actions/IA_SummonHolo.uasset",
+				"C:/Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/jroberts/Documents/School/2-Quater4/GameProgrammingProduction/GAT360Final/Content/Game/Character/BP_BoxMan.uasset",
 				"C:/Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
 				"C:/Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
 				"C:/Users/loren/OneDrive/Desktop/GAT360Final/GAT360Final/Content/Game/Materials/Level.uasset",
