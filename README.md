@@ -1,39 +1,51 @@
-🕶️ Retro Runner
-A sleek, pulse-pounding stealth experience with a retro-futuristic edge. Built in Unreal Engine.
+# 🕶️ Retro Runner
 
-Welcome to Retro Runner—an electrifying blend of stealth gameplay and neon-drenched visuals. Inspired by the iconic Tron aesthetic, Retro Runner drops you into a digital world of shifting shadows, glowing corridors, and pulse-pounding synths. This isn’t just a game—it’s a chase through a retro cyber-dream.
+**A sleek, pulse-pounding stealth experience with a retro-futuristic edge. Built in Unreal Engine.**
 
-🎮 Features
-✨ Tron-Inspired Visuals
-Immerse yourself in a sleek, synthwave universe—every corridor pulses with light, every shadow hides danger.
+Welcome to **Retro Runner** — an electrifying blend of stealth gameplay and neon-drenched visuals. Inspired by the iconic *Tron* aesthetic, Retro Runner drops you into a digital world of shifting shadows, glowing corridors, and pulse-pounding synths. This isn’t just a game — it’s a chase through a retro cyber-dream.
 
-🕵️ Stealth-Focused Gameplay
+---
+
+## 🎮 Features
+
+✨ **Tron-Inspired Visuals**  
+Immerse yourself in a sleek, synthwave universe — every corridor pulses with light, every shadow hides danger.
+
+🕵️ **Stealth-Focused Gameplay**  
 Avoid detection with fluid, responsive movement mechanics. Time your dashes, sneak through shadows, and outwit advanced AI patrols.
 
-🎧 Synthwave Soundtrack
+🎧 **Synthwave Soundtrack**  
 An original retro-electronic score heightens tension and fuels momentum.
 
-🧠 Intelligent Enemies
-Dynamic AI responds to light, sound, and line-of-sight—ensuring every encounter is unique and engaging.
+🧠 **Intelligent Enemies**  
+Dynamic AI responds to light, sound, and line-of-sight — ensuring every encounter is unique and engaging.
 
-⚙️ Built in Unreal Engine
+⚙️ **Built in Unreal Engine**  
 Leveraging the power of UE4/UE5 to deliver buttery-smooth gameplay and cinematic visuals.
 
-🚀 Getting Started
-Clone the Repository
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/retro-runner.git
-Open in Unreal Engine
+## 🚀 Getting Started
 
-Launch the appropriate version of Unreal Engine.
+1. **Clone the Repository**
 
-Open RetroRunner.uproject.
+    ```bash
+    git clone https://github.com/yourusername/retro-runner.git
+    ```
 
-Build & Play
+2. **Open in Unreal Engine**
 
-Press Play in the editor or package the game via File > Package Project.
+    - Launch the appropriate version of Unreal Engine.
+    - Open `RetroRunner.uproject`.
 
-💡 Make sure you have the appropriate version of Unreal Engine installed. This project was built using [UE version 5].
+3. **Build & Play**
+
+    - Press `Play` in the editor or package the game via `File > Package Project`.
+
+> 💡 *Make sure you have the appropriate version of Unreal Engine installed. This project was built using [UE version here].*
+
+---
+
+## 📸 Screenshots
+
+_Coming soon!_
